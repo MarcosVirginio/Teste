@@ -5,10 +5,7 @@
  */
 package javaapplication1;
 
-/**
- *
- * @author Aluno
- */
+
 public class JavaApplication1 {
 
     
